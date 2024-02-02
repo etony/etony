@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b>eTony</b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 🐦 Fullstack developer  」<br>
+    「 🛠 Fullstack developer  」<br>
   </samp>
 </p>
 <p align="center">
@@ -22,6 +22,9 @@
           </tr>
       </tbody>
   </table> 
+</p>
+<p align="center">
+🤝🏻 <a href="mailto:etony.an@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-etony.an@gmail.com-blue?style=flat&logo=gmail">
 </p>
 <!--
 <div align="center"> <img src="https://metrics.lecoq.io/etony?template=classic&config.timezone=Asia%2FShanghai"> </div>
